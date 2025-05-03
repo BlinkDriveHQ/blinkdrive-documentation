@@ -9,7 +9,7 @@ REPOS=(
     "blinkdrive-backend"
     "blinkdrive-frontend"
     "blinkdrive-devops"
-    # "blinkdrive-documentation"
+    "blinkdrive-documentation"
 )
 
 # Your GitHub organization name
