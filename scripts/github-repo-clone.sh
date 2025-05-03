@@ -8,7 +8,8 @@ REPOS=(
     "blinkdrive-application"
     "blinkdrive-database"
     "blinkdrive-storage-node"
-    "blinkdrive-client-web"
+    "blinkdrive-backend"
+    "blinkdrive-frontend"
     "blinkdrive-devops"
     "blinkdrive-documentation"
 )
